@@ -2,4 +2,4 @@
 
 x = int(input("Enter x :" ))
 y = int(input("Enter y :" ))
-print("X + Y = ", x+y)
+print(f"{x} + {y}= ", x+y)
